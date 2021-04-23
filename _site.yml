@@ -9,12 +9,18 @@ navbar:
       href: index.html
     - text: "Research"
       menu:
-        - text: "Community Ecology"
-          href: articles/article1.html
-        - text: "Wildfire & Invasion"
-          href: projects.html
-    - text: "About"
-      href: about.html
+        - text: "Wildfire & Plant Invasions"
+          href: wildfire.html
+        - text: "Community Invasion Resistance"
+          href: sgh.html
+        - text: "Alpine Plant Communities"
+          href: gloria.html
+    - text: "CV"
+      href: cv.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Science Art"
+      href: art.html
     - icon: fab fa-github
       href: https://github.com/cmtortorelli/Claire-Tortorelli-website
 output: distill::distill_article
