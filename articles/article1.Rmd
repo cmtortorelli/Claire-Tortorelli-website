@@ -1,0 +1,31 @@
+---
+title: "Expanding the invasion footprint: Ventenata dubia and relationships to wildfire, environment, and plant communities in the Blue Mountains of the Inland Northwest, USA"
+description: |
+  This paper examines plant community and environmental drivers and potential impacts of Ventenata dubia, a recently introduced annual grass, in previously invasion resistant forest-mosaic landscapes of eastern Oregon.
+author:
+  - name: Claire Tortorelli
+    affiliation: Oregon State University, Forest Ecosystems & Society
+  - name: Meg Krawchuk
+    affiliation: Oregon State University, Forest Ecosystems & Society
+    affiliation_url: http://people.forestry.oregonstate.edu/meg-krawchuk/lab
+  - name: Becky Kerns
+    affiliation: USFS, Pacific Northwest Research Station
+    affiliation_url: http://www.nwfirescience.org/ventenata
+journal: Applied Vegetation Science
+volume: 49
+doi: "https://doi.org/10.1111/avsc.12511"
+date: "July, 2020"
+output: distill::distill_article
+bibliography: article1.bib
+nocite: '@*'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Available free of charge at <https://www.fs.usda.gov/treesearch/pubs/60889>.
+
+
+All analyses were done using R 4.0.4 [@R-base].
+
