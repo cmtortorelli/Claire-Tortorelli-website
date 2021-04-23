@@ -8,3 +8,6 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Publications
+- [Expanding the invasion footprint: Ventenata dubia and relationships to wildfire, environment, and plant communities in the Blue Mountains of the Inland Northwest, USA](articles/article1.html)
+- [Another article](articles/article2.html)

@@ -8,7 +8,11 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: projects.html
+      menu:
+        - text: "Community Ecology"
+          href: articles/article1.html
+        - text: "Wildfire & Invasion"
+          href: projects.html
     - text: "About"
       href: about.html
     - icon: fab fa-github

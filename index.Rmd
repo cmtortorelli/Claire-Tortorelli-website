@@ -1,5 +1,5 @@
 ---
-title: "Claire Tortorelli"
+title: ""
 image: "images/Tortorelli_Claire_FES.jpg"
 links:
   - label: '`r fontawesome::fa("twitter", height = "25px")`'
