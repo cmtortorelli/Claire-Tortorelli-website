@@ -10,13 +10,13 @@ navbar:
     - text: "Research"
       menu:
         - text: "Wildfire & Plant Invasions"
-          href: wildfire.html
+          href: fire.html
         - text: "Community Invasion Resistance"
           href: sgh.html
         - text: "Alpine Plant Communities"
           href: gloria.html
     - text: "CV"
-      href: cv.html
+      href: CV.html
     - text: "Publications"
       href: publications.html
     - text: "Science Art"
