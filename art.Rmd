@@ -1,12 +1,8 @@
 ---
 title: "Science Art!"
 description: |
-  A new article created using the Distill format.
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  Original sketches & illustrations.
+
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -14,6 +10,11 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![](images/heron.png){ width=50%}
+
+![](images/finch.jpg){ width=40% }![](images/hermit.jpg){ width=40% } 
+
+![](images/echpur.jpg){ width=30% } 
 
 
 
