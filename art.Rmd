@@ -12,13 +12,47 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 ![](images/heron.png){ width=50%}
 
-![](images/finch.jpg){ width=40% }![](images/hermit.jpg){ width=40% } 
 
-![](images/echpur.jpg){ width=30% } 
-
-
-
+<br/>
+Great blue heron, *Ardea herodias*
+<br/>
 
 
+![](images/bat.jpg){ width=34% } 
+![](images/bur.jpg){ width=34% } 
+![](images/kingfisher.jpg){ width=28% } 
+<br/>
 
+
+![](images/finch.jpg){ width=45% }
+![](images/owl.jpg){ width=45% } 
+<br/>
+American Goldfinch, *Spinus tristis*; Great horned owl, *Bubo virginianus*
+
+
+<br/>
+![](images/sabrewing.jpg){ width=45% } 
+![](images/hermit.jpg){ width=45% } 
+
+<br/>
+violet sabrewing, *Campylopterus hemileucurus*; green hermit, *Phaethornis guy*    
+
+<br/>
+
+![](images/ferns1.jpg){ width=40% } 
+![](images/morel.jpg){ width=40% } 
+<br/>
+Fiddlehead ferns; *Morchella*
+
+
+
+
+
+
+
+![](images/echpur.jpg){ width=45% } 
+![](images/tree.jpg){ width=45% } 
+
+<br/>
+*Echinacea purpurea*; Bristlecone pine, *Pinus aristata* 
 
