@@ -1,0 +1,16 @@
+---
+title: "Wildfire & Plant Invasions"
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/fire_banner.jpg)
+
+Invasion by non-native grasses are particularly impactful when they alter fire regimes and promote fire in historically fire-resistant areas, resulting in the loss of plant species that do not recover quickly after burning. The recent invasion by the annual grass, ventenata, *Ventenata dubia*, increases fuel loads and continuity in previously sparsely vegetated "scablands", leading to uncharacteristic fire behavior and the loss of keystone sagebrush species. Additionally, fire in scablands is problematic for fire management since these areas were used as natural fire breaks and fire fighter safety zones before they were invaded.
+
+I use field data, remote sensing, and fire simulations to examine how the ventenata invasion has altered fuels and fire behavior in scablands and across the larger forest matrix at local and landscape scales. 
