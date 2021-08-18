@@ -26,4 +26,3 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Welcome!
 <br>I'm a PhD student researching plant invasions and wildfire at Oregon State University. I use field, remote sensing, and modeling techniques to investigate how plant community traits and environmental characteristics influence community invasion resistance. I collaborate with managers to develop co-produced, actionable science examining how plant invasions influence and respond to landscape-scale wildfire to inform pre- and post-fire management actions. 
-
