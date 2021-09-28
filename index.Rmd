@@ -24,5 +24,21 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+```{r, echo = FALSE}
+library(metathis)
+
+meta() %>%
+  meta_description(
+    "Claire Tortorelli's personal website"
+  ) %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "Claire Tortorelli Website",
+    url = "https://cmtortorelli.github.io/Claire-Tortorelli-website/",
+    og_author = c("Claire Tortorelli")
+  )
+```
+
+
 ### Welcome!
-<br>I'm a PhD student researching plant invasions and wildfire at Oregon State University. I use field, remote sensing, and modeling techniques to investigate how plant community traits and environmental characteristics influence community invasion resistance. I collaborate with managers to develop co-produced, actionable science examining how plant invasions influence and respond to landscape-scale wildfire to inform pre- and post-fire management actions. 
+<br>I'm a PhD student researching plant invasions and wildfire at Oregon State University. I use field, remote sensing, and modeling techniques to investigate how plant traits and environmental characteristics influence plant community response to disturbances, including biological invasion and wildfire, at local and landscape-scales. My goals are to help develop co-produced, actionable science to inform more effective and efficient management actions and promote balanced ecosystems. 
