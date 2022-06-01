@@ -9,8 +9,17 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 ![](images/sagebrush_banner.jpg)
 
-### Submitted or in review
-**Tortorelli, C.**, Kerns, B. K., Krawchuk, M. **Interactions between plant community trait composition and environmental stress influence community resistance to a recent annual grass invader, *Ventenata dubia*.** Submitted for review 2021.
+### Submitted/ in review
+**Tortorelli, C.**, Kim, J., Vaillant, N., Riley, K., Dye, A., Nietupski, TC., Vogler, KC., Lemons, R., Day, M., Krawchuk, M., Kerns, BK. **Feeding the fire: annual grass invasion facilitates modeled fire spread across Inland Northwest forest-mosaic landscapes**.
+
+<sup>1</sup>Luedloff, E., **Tortorelli, C.**, Luoma, D., Krawchuk, M. **Getting to the Root of It: Root Colonization by Fungal Symbionts in the Invasive Grass Ventenata dubia**.
+
+<sup>1</sup>indicates undergraduate co-author
+
+### 2022
+**Tortorelli, C.**, Kerns, B. K., Krawchuk, M. (2022) **Community invasion resistance is influenced by interactions between plant traits and site productivity**. [Ecology: e3697](https://doi.org/10.1002/ecy.3697)
+
+**Tortorelli, C.**, Kerns, B. K., Krawchuk, M. (2022) **The invasive annual grass *Ventenata dubia* is insensitive to experimental removal of above-ground resident biomass across a productivity gradient**. [Biological Invasions](https://link.springer.com/article/10.1007/s10530-022-02823-5)
 
 ### 2020
 **Tortorelli, C.**, Kerns, B. K., Krawchuk, M. (2020). **Expanding the invasion footprint: *Ventenata dubia* and relationships to wildfire, environment, and plant communities in the Inland Northwest, USA.** [Applied Vegetation Science: 23.4: 562-574](https://www.fs.usda.gov/treesearch/pubs/60889)

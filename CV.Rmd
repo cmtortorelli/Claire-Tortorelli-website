@@ -11,7 +11,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](images/oregon_sunshine_banner.jpg)
 
 ## Education
-Oregon State University, PhD Candidate/NSF Graduate Research Fellow, September 2017 to present
+Oregon State University, *Ph.D.* Fire Ecology - Forest Ecosystems and Society, 2022
+
+NSF Graduate Research Fellow, September 2017 to 2022
 
 Colorado State University, *B.S.* Forest Biology & Botany minor, 2015
 
@@ -55,7 +57,12 @@ Colorado State University, *B.S.* Forest Biology & Botany minor, 2015
 •	Is a new invasive species, *Ventenata dubia*, altering fire regimes and native plant communities? International Fire Ecology and Management conference, Missoula, MT, 2018 <br> 
 
 #### Presentations
+•	Feeding the fire: Modeling annual grass invasion in a forest-mosaic landsca, Association of Fire Ecology,  virtual, 2021
+<br>
+•	Interactions between plant community trait composition and environmental stress influence community resistance to a recent annual grass invader, *Ventenata dubia*. ESA, virtual, 2021
+<br>
 •	Plant community traits and environmental stress influence invasion resistance. Western Forestry Graduate Research Symposium, Corvallis, OR/virtual, 2021 
+<br>
 •	A novel niche: The invasive annual grass *Ventenata dubia* and relationships to wildfire, environment, and community factors in the Inland Northwest. International	Fire Ecology and Management conference, Tucson, AZ, 2019 <br>
 •	Trends in alpine vegetation in Rocky Mountain National Park: Monitoring using the GLORIA Methodology Rocky Mountain Research Symposium. Estes Park, CO, 2017
 
@@ -83,12 +90,15 @@ Colorado State University, *B.S.* Forest Biology & Botany minor, 2015
 •	Forest Ecology (FES 341), OSU, Corvallis, OR. 2018
 
 ### Guest Lectures
+•	Fire Ecology (FES 440/540), OSU, Corvallis, OR. 2022 <br>
 •	Fire Ecology (FES 440/540), OSU, Corvallis, OR. 2021 <br>
 •	Fire Ecology (FES 440/540), OSU, Corvallis, OR. 2020 <br>
 •	Forest Ecology (FES 341), OSU, Corvallis, OR. 2018 <br>
 •	Wildland Restoration (RNG 521), OSU, Corvallis, OR. 2018
 
 ### Workshops & Field Trips
+•	Science communication: making figures with Inkscape, Corvallis, OR. 2021 <br>
+
 •	USFS post-fire invasive species management workshop, Region 6/virtual. 2021<br>
 •	USFS Ventenata dubia and fire field trip, Prineville, OR. 2019<br>
 •	USFS Invasive species Listening Sessions:<br>
@@ -100,7 +110,10 @@ Prineville, OR. 2017<br>
 Lakeview, OR. 2017<br>
 
 ## Mentoring Experience
-•	Undergraduate Thesis Committee Member, Oregon State University (2019 to present)<br>
+•	Undergraduate Research Project Mentor, Oregon State University (2021 to 2022)<br>
+**Ellen Leudloff**. Project: Microbial associations with the invasive annual grass, ventenata.<br>
+
+•	Undergraduate Thesis Committee Member, Oregon State University (2019 to 2022)<br>
 **Simone Gibson**. Project: How does Ventenata dubia influence fuel load and fire behavior?<br>
 
 •	Forestry Graduate-Undergraduate Mentorship Program, Oregon State University (2020)<br>

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Claire Tortorelli website"
 image: "images/Tortorelli_Claire_FES.jpg"
 links:
   - label: '`r fontawesome::fa("twitter", height = "25px")`'
@@ -28,6 +28,9 @@ knitr::opts_chunk$set(echo = FALSE)
 library(metathis)
 
 meta() %>%
+  meta_name( 
+    title = "Claire Tortorelli"
+    ) %>%
   meta_description(
     "Claire Tortorelli's personal website"
   ) %>% 
@@ -41,4 +44,4 @@ meta() %>%
 
 
 ### Welcome!
-<br>I'm a PhD student researching plant invasions and wildfire at Oregon State University. I use field, remote sensing, and modeling techniques to investigate how plant traits and environmental characteristics influence plant community response to disturbances, including biological invasion and wildfire, at local and landscape-scales. My goals are to help develop co-produced, actionable science to inform more effective and efficient management actions and promote balanced ecosystems. 
+<br>I'm a postdoc researching wildfire in forests at UC Davis. I use field, remote sensing, and modeling methods to investigate how vegetation responds to and influences disturbances, including drought and wildfire, at community and landscape-scales. I aim to develop co-produced, actionable science to inform management actions and promote balanced and resilient ecosystems. 

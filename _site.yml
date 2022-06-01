@@ -9,7 +9,7 @@ navbar:
       href: index.html
     - text: "Research"
       menu:
-        - text: "Wildfire & Plant Invasions"
+        - text: "Wildfire"
           href: fire.html
         - text: "Community Invasion Resistance"
           href: sgh.html
