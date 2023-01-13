@@ -8,15 +8,18 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 ![](images/sagebrush_banner.jpg)
+### See complete list of publications on [Google Scholar](https://scholar.google.com/citations?user=wG7r-MEAAAAJ&hl=en)
 
-### Submitted/ in review
-**Tortorelli, C.**, Kim, J., Vaillant, N., Riley, K., Dye, A., Nietupski, TC., Vogler, KC., Lemons, R., Day, M., Krawchuk, M., Kerns, BK. **Feeding the fire: annual grass invasion facilitates modeled fire spread across Inland Northwest forest-mosaic landscapes**.
+### In press
+**Tortorelli, C.**, Kim, J., Vaillant, N., Riley, K., Dye, A., Nietupski, TC., Vogler, KC., Lemons, R., Day, M., Krawchuk, M., Kerns, BK. **Feeding the fire: annual grass invasion facilitates modeled fire spread across Inland Northwest forest-mosaic landscapes**. Ecosphere
 
-<sup>1</sup>Luedloff, E., **Tortorelli, C.**, Luoma, D., Krawchuk, M. **Getting to the Root of It: Root Colonization by Fungal Symbionts in the Invasive Grass Ventenata dubia**.
+
+### 2022
+
+<sup>1</sup>Luedloff, E., **Tortorelli, C.**, Luoma, D., Krawchuk, M. **Getting to the Root of It: Root Colonization by Fungal Symbionts in the Invasive Grass Ventenata dubia**. [Ecology: e3895](https://doi.org/10.1002/ecy.3895)
 
 <sup>1</sup>indicates undergraduate co-author
 
-### 2022
 **Tortorelli, C.**, Kerns, B. K., Krawchuk, M. (2022) **Community invasion resistance is influenced by interactions between plant traits and site productivity**. [Ecology: e3697](https://doi.org/10.1002/ecy.3697)
 
 **Tortorelli, C.**, Kerns, B. K., Krawchuk, M. (2022) **The invasive annual grass *Ventenata dubia* is insensitive to experimental removal of above-ground resident biomass across a productivity gradient**. [Biological Invasions](https://link.springer.com/article/10.1007/s10530-022-02823-5)

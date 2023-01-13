@@ -44,4 +44,4 @@ meta() %>%
 
 
 ### Welcome!
-<br>I'm a postdoc researching wildfire in forests at UC Davis. I use field, remote sensing, and modeling methods to investigate how vegetation responds to and influences disturbances, including drought and wildfire, at community and landscape-scales. I aim to develop co-produced, actionable science to inform management actions and promote balanced and resilient ecosystems. 
+<br>I'm a postdoc fellow researching wildfire in forests at UC Davis. I use field, remote sensing, and modeling methods to investigate how vegetation responds to and influences disturbances, including drought and wildfire, at community and landscape-scales. I aim to develop co-produced, actionable science to inform management actions and promote balanced and resilient ecosystems. 

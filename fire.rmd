@@ -28,5 +28,5 @@ Working with a team at UC Davis, I am using long-term post-fire monitoring data 
 
 Invasion by non-native grasses are particularly impactful when they alter fire regimes and promote fire in historically fire-resistant areas, resulting in the loss of plant species that do not recover quickly after burning. 
 
-I use field data, remote sensing, and fire simulations to examine how plant invasions respond to and alter fire and post-fire plant communities and forest recovery at local and landscape scales. 
+I use field data, remote sensing, and fire simulations to examine how plant invasions respond to and alter fire and post-fire plant communities and forest and rangeland recovery at local and landscape scales. 
 

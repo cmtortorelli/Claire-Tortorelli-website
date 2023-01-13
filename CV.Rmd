@@ -53,11 +53,17 @@ Colorado State University, *B.S.* Forest Biology & Botany minor, 2015
 ### Academic conferences
 #### Posters
 •	*Ventenata dubia*: Invasion potential and impact on native communities in North America’s Inland Pacific Northwest. Ecology and Management of Alien Plant Invasions (EMAPi) conference, Prague, Czech Republic, 2019 <br>
-•	Is a new invasive species, *Ventenata dubia*, altering fire regimes and native plant communities? Western Forestry Graduate Research Symposium, Corvallis, OR, 2018 <br>
-•	Is a new invasive species, *Ventenata dubia*, altering fire regimes and native plant communities? International Fire Ecology and Management conference, Missoula, MT, 2018 <br> 
+•	Is a new invasive species, *Ventenata dubia*, altering fire regimes and native plant communities? Western Forestry Graduate Research Symposium, Corvallis, OR, 2018 
+<br>
+•	Is a new invasive species, *Ventenata dubia*, altering fire regimes and native plant communities? International Fire Ecology and Management conference, Missoula, MT, 2018
+<br> 
 
-#### Presentations
-•	Feeding the fire: Modeling annual grass invasion in a forest-mosaic landsca, Association of Fire Ecology,  virtual, 2021
+#### Selected Presentations
+•	Feeding the fire: Drivers and impacts of the Ventenata dubia invasion in the Blue Mountain Ecoregion. Oregon Interagency Noxious Weed Symposium, Corvallis, OR, 2022
+<br>
+•	Annual grass invasion and fire in Inland Northwest forests, USA. Association of Fire Ecology, virtual, 2022
+<br>
+•	Feeding the fire: Modeling annual grass invasion in a forest-mosaic landscape, Association of Fire Ecology,  virtual, 2021
 <br>
 •	Interactions between plant community trait composition and environmental stress influence community resistance to a recent annual grass invader, *Ventenata dubia*. ESA, virtual, 2021
 <br>
@@ -65,11 +71,6 @@ Colorado State University, *B.S.* Forest Biology & Botany minor, 2015
 <br>
 •	A novel niche: The invasive annual grass *Ventenata dubia* and relationships to wildfire, environment, and community factors in the Inland Northwest. International	Fire Ecology and Management conference, Tucson, AZ, 2019 <br>
 •	Trends in alpine vegetation in Rocky Mountain National Park: Monitoring using the GLORIA Methodology Rocky Mountain Research Symposium. Estes Park, CO, 2017
-
-#### Contributed presentations
-•	AGU, virtual, 2020 <br>
-•	Weed Science Society of America, Maui, HI, 2020 <br>
-•	Ecology and Management of Alien Plant Invasions (EMAPi) conference, Prague, Czech Republic, 2019
 
 ### Science Outreach Presentations
 •	A new invasive threat to Oregon’s native plant communities, *Ventenata dubia*. Native Plant Society of Oregon monthly chapter meeting, Corvallis, OR (2021) <br>
@@ -110,8 +111,11 @@ Prineville, OR. 2017<br>
 Lakeview, OR. 2017<br>
 
 ## Mentoring Experience
+•	Undergraduate Honors Thesis Mentor, University of California, Davis (2022 to present)<br>
+**Kara Sanghera**. Project: Invasion in California forests following severe fire<br>
+
 •	Undergraduate Research Project Mentor, Oregon State University (2021 to 2022)<br>
-**Ellen Leudloff**. Project: Microbial associations with the invasive annual grass, ventenata.<br>
+**Ellen Leudloff**. Project: Microbial associations with the invasive annual grass, ventenata<br>
 
 •	Undergraduate Thesis Committee Member, Oregon State University (2019 to 2022)<br>
 **Simone Gibson**. Project: How does Ventenata dubia influence fuel load and fire behavior?<br>
@@ -157,7 +161,7 @@ Colorado Natural Heritage Program, Fort Collins, Colorado, 2013 to 2017, <br>
 ## DEI & Science Outreach Volunteering
 
 ### Diversity, Equity, and Inclusion 
-•	College of Forestry: DEI in Course Design, 2020 to 2021, *Taskforce Member* <br>
+•	College of Forestry: DEI in Course Design, 2020 to 2022, *Taskforce Member* <br>
 •	Promoting DEI in Seasonal Fieldwork Workshop, 2021, *Participant*<br>
 •	Decolonize Fire Ecology Workshop, 2021, *Participant*<br>
 •	Adaptive Recreational Opportunities, Fort Collins, Colorado, 2012, *Volunteer instructor*                           
@@ -177,9 +181,15 @@ Colorado Natural Heritage Program, Fort Collins, Colorado, 2013 to 2017, <br>
 •	OSU Forest Ecosystems & Society: Graduate Student Faculty Awards Committee, 2020<br>
 •	OSU Forest Ecosystems & Society: Faculty Promotion Review Student Committee Chair, 2019<br>
 
-•	**Journal Reviews**: Ecological Monographs (1), Rangeland Ecology & Management (2), USGS Annotated Bibliography (1)
+•	**Journal Reviews**: Ecological Monographs (1), Rangeland Ecology & Management (2), USGS Annotated Bibliography (1), Forest Ecology and Management (3), Ecological Processes (1)
 
-## Certifications
-•	Wilderness First Responder & CPR (SOLO) | through April 2024
+## Certifications & Additional Skills
+•	Wilderness First Responder & CPR (SOLO) through April 2024<br>
+•	Programming & Analysis: Proficient in R: spatial and non-spatial data manipulation and analysis, machine learning, and parametric and non-parametric analysis techniques. Experience in Python, JavaScript, JMP. Collaborating in GitHub <br>
+•	Geospatial Analysis: Proficient in R, ArcMap, ArcPro. Experience in Python (ArcPy) and Google Earth Engine. <br>
+•	Fire/ Forest Modeling: Experience in FSim, BehavePlus, FlamMap, IFTDSS, FCCS, and FVS.<br>
+•	Language: Native English. Written and spoken Spanish (intermediate)<br>
+•	Additional Software: Proficient with MS Office Suite including MS Word, MS Outlook, MS Access, MS Excel, and MS PowerPoint and Mendeley citation manager.<br>
+•	Art & Design: Experience using Inkscape for graphic design.
 
 
