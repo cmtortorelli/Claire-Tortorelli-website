@@ -8,7 +8,7 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 ![](images/sagebrush_banner.jpg)
-### See complete list of publications on [Google Scholar](https://scholar.google.com/citations?user=wG7r-MEAAAAJ&hl=en)
+See complete list of publications on [Google Scholar](https://scholar.google.com/citations?user=wG7r-MEAAAAJ&hl=en)
 
 ### In press
 **Tortorelli, C.**, Kim, J., Vaillant, N., Riley, K., Dye, A., Nietupski, TC., Vogler, KC., Lemons, R., Day, M., Krawchuk, M., Kerns, BK. **Feeding the fire: annual grass invasion facilitates modeled fire spread across Inland Northwest forest-mosaic landscapes**. Ecosphere

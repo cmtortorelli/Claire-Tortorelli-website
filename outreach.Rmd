@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](images/outreach_banner.jpg)
 
-## Science Outreach - Invasion and fire
+## Co-produced Research
 
 I work closely with land managers throughout the question development, research, and science delivery processes to co-produce actionable research on relevant topics regarding the resistance and resilience of western rangelands and forests. <br>
 
